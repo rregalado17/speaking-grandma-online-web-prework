@@ -1,9 +1,11 @@
+<<<<<<< HEAD
 phrase = ""
+pw2][lp;m]
 def speak_to_grandma(phrase)  
-  if phrase == "I love you grandma!".upcase
-    "I LOVE YOU TOO PUMPKIN!"
-  elsif phrase == phrase.upcase 
+  if phrase == phrase.upcase 
     "NO, NOT SINCE 1938!"
+  elsif phrase == 'I love you grandma!'.upcase
+    "I LOVE YOU TOO PUMPKIN!"
   else 
     "HUH?! SPEAK UP, SONNY!"
   end
